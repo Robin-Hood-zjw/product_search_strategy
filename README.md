@@ -20,3 +20,41 @@ KROGER_CLIENT_ID= ""
 KROGER_CLIENT_SECRET=""
 
 REDIRECT_URI = ""
+
+# Requirements
+Several packages are required to installed:
+
+from functools import cache
+
+from os import stat
+
+import requests
+
+import json
+
+import sys
+
+import webbrowser
+
+import requests_oauthlib
+
+import final_secrets
+
+import final_newsapi
+
+import time
+
+from requests_oauthlib import OAuth1
+
+from requests_oauthlib import OAuth2Session
+
+from geopy.geocoders import Nominatim
+
+import requests
+
+from requests.auth import HTTPBasicAuth
+
+from oauthlib.oauth2 import BackendApplicationClient
+
+from requests_oauthlib import OAuth2Session
+
