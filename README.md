@@ -59,4 +59,4 @@ from oauthlib.oauth2 import BackendApplicationClient
 from requests_oauthlib import OAuth2Session
 
 # Data Structure
-Binary tree is the data structure that is deployed into the main program. Same product category is required for the construction of each binary tree structure. Each node represents a single product whose attributes consist of <productId>, <productName>, <productType>, <productPrice>, <productFulfillment>, <productDelivery>, <left>, <right> and <parent>.
+Binary tree is the data structure that is deployed into the main program. Same product category is required for the construction of each binary tree structure. Each node represents a single product whose attributes consist of productId, productName, productType, productPrice, productFulfillment, productDelivery, left, right and parent. 
