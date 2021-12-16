@@ -60,3 +60,23 @@ from requests_oauthlib import OAuth2Session
 
 # Data Structure
 Binary tree is the data structure that is deployed into the main program. Same product category is required for the construction of each binary tree structure. Each node represents a single product whose attributes consist of productId, productName, productType, productPrice, productFulfillment, productDelivery, left, right and parent. 
+
+productId: a set of numbers that made up of several integers
+
+productName: a set of descriptions about the features of same-type product
+
+productType: the category of a product, whereas the category must be same within one binary tree
+
+productPrice: the regular price of a product
+
+productFulfillment: the current status of the product fulfillment, including the number of the products stored in the targte site
+
+productDelivery: the condition whether the product can be delivered to home or not
+
+left: the left-child node(product)
+
+right:  the right-child node(product)
+
+parent: the parent node(product)
+
+
