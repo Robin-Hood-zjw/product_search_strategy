@@ -1,4 +1,4 @@
-#This project is not totally complete because of some existing Oauth problems. You need to go to another branch called master to check files for this project.
+# This project is not totally complete because of some existing Oauth problems. You need to go to another branch called master to check files for this project.
 
 # Product_Search_Strategy
 This program originates from the final project of  the class SI507.
