@@ -1,3 +1,5 @@
+#This project is not totally complete because of some existing Oauth problems.
+
 # Product_Search_Strategy
 This program originates from the final project of  the class SI507.
 
